@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" href="style.css" />
+<title>terminal s2</title>
+</head>
+<body>
+<header>
+<li><a href="accueil.html">accueil</a></li></br>
+<li><img src="tnwatsap.jpg" alt="logo de whatsap" /><a href="www.chat.whatsapp.com/JcrdzrdOy4FEVX168Wt4iu">
+<em>whatsap/groupe mathsenegal </em></a></li>
+</header>
+<h1>des milliers d'epreuve de baccalaureat de devoir et de cours </h1></br>
+<em>telecharger ici</em></br>
+<p>cours et TD</p></br>
+<li><a href="TDden.pdf">TD1:dénombrement</a></li></br>
+<li><a href="tdes2.pdf">TD1:equation et inequation du second degré</a></li></br>
+<footer>
+contact:</br>
+email:mathsenegalweb@gmail.com</br>
+Integrez la plateforme mathsenegal sur <img src="tnwatsap.jpg" alt="logo de whatsap" /><a href="www.chat.whatsapp.com/JcrdzrdOy4FEVX168Wt4iu">
+<em>whatsap/groupe mathsenegal </em></a>
+
+
+</footer>
+</body>
+</html>
